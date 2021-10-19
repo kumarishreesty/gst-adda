@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200291180927",
+    "project_id": "gst-adda",
+    "storage_bucket": "gst-adda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200291180927:android:7c06af41bb80d13110fa4a",
+        "android_client_info": {
+          "package_name": "com.example.gst_adda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200291180927-nu2ogisbuj9onj42ibcgj07opvfl7lsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gst_adda",
+            "certificate_hash": "168bf92c82b00e03c86071f754ce1381f28f60e3"
+          }
+        },
+        {
+          "client_id": "200291180927-3jr38id5p11k99gc0ehssg28iveo5r3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GbtvqdXux-l4VILE1hazLW_l_GiLQhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200291180927-3jr38id5p11k99gc0ehssg28iveo5r3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
