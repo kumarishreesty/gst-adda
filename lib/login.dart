@@ -18,7 +18,7 @@ class _LoginState extends State<Login> {
 
   checkAuthentification() async {
     _auth.authStateChanges().listen((user) {
-      if (user != null) {
+      if (user != null) { 
         Navigator.push(
           context,
           MaterialPageRoute(
